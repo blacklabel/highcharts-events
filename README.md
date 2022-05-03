@@ -9,6 +9,8 @@ Highcharts JS is a JavaScript charting library based on SVG, with fallbacks to V
 * Official website: [www.highcharts.com](http://www.highcharts.com)
 * Download page: [www.highcharts.com/download](http://www.highcharts.com/download)
 
+# read first:
+
 Events API:
 * [`addEventListener()`](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 * [`removeEventListener()`](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/removeEventListener)
@@ -18,6 +20,7 @@ HC Events API:
 * [`Highcharts.addEvent()`](https://api.highcharts.com/class-reference/Highcharts#.addEvent%3CT%3E)
 * [`Highcharts.fireEvent()`](https://api.highcharts.com/class-reference/Highcharts#.fireEvent%3CT%3E)
 * [`Highcharts.removeEvent()`](https://api.highcharts.com/class-reference/Highcharts#.removeEvent%3CT%3E)
+* [Pub/Sub pattern](https://dev.to/anishkumar/design-patterns-in-javascript-publish-subscribe-or-pubsub-20gf)
 
 HC Chart's events API:
 * [`chart.events.load`](https://api.highcharts.com/highcharts/chart.events.load)
